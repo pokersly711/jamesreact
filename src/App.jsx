@@ -27,7 +27,7 @@ const siteProps = {
   name: "James Russell",
   title: "Full Stack Developer & Graphic Designer",
   email: "jamesr71172@gmail.com",
-  gitHub: "pokersly711.github.io",
+  gitHub: "/pokersly711",
   instagram: "",
   linkedIn: "",
   medium: "",
